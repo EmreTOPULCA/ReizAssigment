@@ -1,0 +1,8 @@
+C:\Users\cptte\Desktop\NewProject\ReizAssigment\ReizAssigment\bin\Debug\ReizAssigment.exe.config
+C:\Users\cptte\Desktop\NewProject\ReizAssigment\ReizAssigment\bin\Debug\ReizAssigment.exe
+C:\Users\cptte\Desktop\NewProject\ReizAssigment\ReizAssigment\bin\Debug\ReizAssigment.pdb
+C:\Users\cptte\Desktop\NewProject\ReizAssigment\ReizAssigment\obj\Debug\ReizAssigment.csproj.AssemblyReference.cache
+C:\Users\cptte\Desktop\NewProject\ReizAssigment\ReizAssigment\obj\Debug\ReizAssigment.csproj.SuggestedBindingRedirects.cache
+C:\Users\cptte\Desktop\NewProject\ReizAssigment\ReizAssigment\obj\Debug\ReizAssigment.csproj.CoreCompileInputs.cache
+C:\Users\cptte\Desktop\NewProject\ReizAssigment\ReizAssigment\obj\Debug\ReizAssigment.exe
+C:\Users\cptte\Desktop\NewProject\ReizAssigment\ReizAssigment\obj\Debug\ReizAssigment.pdb
